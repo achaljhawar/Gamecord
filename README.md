@@ -1,7 +1,7 @@
 # GAMECORD
 <p align="center"><img align="center" style="width:0.5px" src="https://cdn.discordapp.com/attachments/818900078077018162/867985070210809936/banner.png"/></p><br/>
 <p align="center">
-   <img alt="npm" src="https://img.shields.io/npm/dt/memer-api">
+   <img alt="npm" src="https://img.shields.io/npm/dt/discord-gamecord">
    <a href="https://discord.gg/invite/GaczkwfgV9"><img src="https://badgen.net/discord/online-members/GaczkwfgV9" alt="Discord"></a>
 </p>
       
