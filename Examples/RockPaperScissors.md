@@ -7,7 +7,7 @@ new RockPaperScissors({
     message: message,
     opponent: message.mentions.users.first(),
     embed: {
-      title: 'Connect 4',
+      title: 'Rock Paper Scissors',
       description: 'Press a button below to make a choice!',
       color: '#7289da',
     },
@@ -16,6 +16,6 @@ new RockPaperScissors({
   	  paper: 'Paper',
   	  scissors: 'Scissors',
     },
-    askMessage: 'Hey {opponent}, {challenger} challenged you for a game of Connect 4!'
+    askMessage: 'Hey {opponent}, {challenger} challenged you for a game of Rock Paper Scissors!'
 }).startGame();
 ```
