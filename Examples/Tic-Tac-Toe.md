@@ -11,6 +11,6 @@ new TicTacToe({
     oColor: 'blurple',
     xColor: 'red',
     color: '#7289da',
-    askMessage: 'Hey {opponent}, {challenger} challenged you for a game of Connect 4!',
+    askMessage: 'Hey {opponent}, {challenger} challenged you for a game of TicTacToe!',
 }).startGame();
 ```
